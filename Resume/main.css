@@ -1,0 +1,9 @@
+/**
+*The only reason this is here is because it doesn't work from the contenteditable for some reason
+**/
+
+*
+{
+	font-family: monospace;
+	-webkit-transition: all 1s;
+}
